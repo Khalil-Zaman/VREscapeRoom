@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 43358761dbbb9974d88d2b09a2af28eb
+timeCreated: 1516963595
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _DirtMask: {fileID: 2800000, guid: 28c7aad1372ff114b90d330f8a2dd938, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

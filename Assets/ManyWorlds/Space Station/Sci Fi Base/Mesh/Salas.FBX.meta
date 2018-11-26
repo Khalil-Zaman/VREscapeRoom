@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: b1465b3b45315b14e8b76690cb74d801
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DecoPiece00
+    100004: Sala00
+    100006: DecoPiece001
+    100008: SkyDome
+    100010: Cylinder001
+    100012: Cylinder002
+    100014: GeoSphere001
+    100016: SkyDome001
+    100018: SkyDome002
+    100020: Sala01
+    100022: Crystal
+    100024: SkyDome003
+    100026: Gate004
+    100028: Line008
+    100030: Box020
+    100032: Box021
+    100034: Box022
+    100036: Box023
+    100038: Box024
+    100040: Chair
+    100042: Cylinder006
+    100044: Cylinder007
+    100046: Cylinder008
+    100048: Cylinder009
+    100050: Cylinder010
+    100052: Cylinder011
+    100054: Cylinder012
+    100056: Cylinder013
+    100058: Cylinder014
+    100060: Cylinder015
+    100062: Cylinder016
+    100064: Cylinder017
+    100066: Cylinder018
+    100068: Cylinder019
+    100070: Cylinder020
+    100072: Line011
+    100074: Object006
+    100076: Object007
+    100078: Object008
+    100080: Object009
+    100082: Object010
+    100084: Object011
+    100086: Sala02
+    100088: Tube001
+    100090: Gate005
+    100092: Object012
+    100094: RoomRoof
+    100096: Tube002
+    100098: Baranda
+    100100: Box026
+    100102: Object013
+    100104: mesh_cc
+    100106: Roof_00
+    100108: Gate003
+    100110: Line007
+    100112: Line009
+    400000: //RootNode
+    400002: DecoPiece00
+    400004: Sala00
+    400006: DecoPiece001
+    400008: SkyDome
+    400010: Cylinder001
+    400012: Cylinder002
+    400014: GeoSphere001
+    400016: SkyDome001
+    400018: SkyDome002
+    400020: Sala01
+    400022: Crystal
+    400024: SkyDome003
+    400026: Gate004
+    400028: Line008
+    400030: Box020
+    400032: Box021
+    400034: Box022
+    400036: Box023
+    400038: Box024
+    400040: Chair
+    400042: Cylinder006
+    400044: Cylinder007
+    400046: Cylinder008
+    400048: Cylinder009
+    400050: Cylinder010
+    400052: Cylinder011
+    400054: Cylinder012
+    400056: Cylinder013
+    400058: Cylinder014
+    400060: Cylinder015
+    400062: Cylinder016
+    400064: Cylinder017
+    400066: Cylinder018
+    400068: Cylinder019
+    400070: Cylinder020
+    400072: Line011
+    400074: Object006
+    400076: Object007
+    400078: Object008
+    400080: Object009
+    400082: Object010
+    400084: Object011
+    400086: Sala02
+    400088: Tube001
+    400090: Gate005
+    400092: Object012
+    400094: RoomRoof
+    400096: Tube002
+    400098: Baranda
+    400100: Box026
+    400102: Object013
+    400104: mesh_cc
+    400106: Roof_00
+    400108: Gate003
+    400110: Line007
+    400112: Line009
+    2300000: //RootNode
+    2300002: DecoPiece00
+    2300004: Sala00
+    2300006: DecoPiece001
+    2300008: SkyDome
+    2300010: Cylinder001
+    2300012: Cylinder002
+    2300014: GeoSphere001
+    2300016: SkyDome001
+    2300018: SkyDome002
+    2300020: Sala01
+    2300022: Crystal
+    2300024: SkyDome003
+    2300026: Gate004
+    2300028: Line008
+    2300030: Box020
+    2300032: Box021
+    2300034: Box022
+    2300036: Box023
+    2300038: Box024
+    2300040: Chair
+    2300042: Cylinder006
+    2300044: Cylinder007
+    2300046: Cylinder008
+    2300048: Cylinder009
+    2300050: Cylinder010
+    2300052: Cylinder011
+    2300054: Cylinder012
+    2300056: Cylinder013
+    2300058: Cylinder014
+    2300060: Cylinder015
+    2300062: Cylinder016
+    2300064: Cylinder017
+    2300066: Cylinder018
+    2300068: Cylinder019
+    2300070: Cylinder020
+    2300072: Line011
+    2300074: Object006
+    2300076: Object007
+    2300078: Object008
+    2300080: Object009
+    2300082: Object010
+    2300084: Object011
+    2300086: Sala02
+    2300088: Tube001
+    2300090: Gate005
+    2300092: Object012
+    2300094: RoomRoof
+    2300096: Tube002
+    2300098: Baranda
+    2300100: Box026
+    2300102: Object013
+    2300104: mesh_cc
+    2300106: Roof_00
+    2300108: Gate003
+    2300110: Line007
+    2300112: Line009
+    3300000: //RootNode
+    3300002: DecoPiece00
+    3300004: Sala00
+    3300006: DecoPiece001
+    3300008: SkyDome
+    3300010: Cylinder001
+    3300012: Cylinder002
+    3300014: GeoSphere001
+    3300016: SkyDome001
+    3300018: SkyDome002
+    3300020: Sala01
+    3300022: Crystal
+    3300024: SkyDome003
+    3300026: Gate004
+    3300028: Line008
+    3300030: Box020
+    3300032: Box021
+    3300034: Box022
+    3300036: Box023
+    3300038: Box024
+    3300040: Chair
+    3300042: Cylinder006
+    3300044: Cylinder007
+    3300046: Cylinder008
+    3300048: Cylinder009
+    3300050: Cylinder010
+    3300052: Cylinder011
+    3300054: Cylinder012
+    3300056: Cylinder013
+    3300058: Cylinder014
+    3300060: Cylinder015
+    3300062: Cylinder016
+    3300064: Cylinder017
+    3300066: Cylinder018
+    3300068: Cylinder019
+    3300070: Cylinder020
+    3300072: Line011
+    3300074: Object006
+    3300076: Object007
+    3300078: Object008
+    3300080: Object009
+    3300082: Object010
+    3300084: Object011
+    3300086: Sala02
+    3300088: Tube001
+    3300090: Gate005
+    3300092: Object012
+    3300094: RoomRoof
+    3300096: Tube002
+    3300098: Baranda
+    3300100: Box026
+    3300102: Object013
+    3300104: mesh_cc
+    3300106: Roof_00
+    3300108: Gate003
+    3300110: Line007
+    3300112: Line009
+    4300000: Sala00
+    4300002: DecoPiece00
+    4300004: DecoPiece001
+    4300006: SkyDome
+    4300008: Cylinder001
+    4300010: SkyDome001
+    4300012: GeoSphere001
+    4300014: SkyDome002
+    4300016: Cylinder002
+    4300018: Sala01
+    4300020: Crystal
+    4300022: SkyDome003
+    4300024: Gate004
+    4300026: Line008
+    4300028: Line011
+    4300030: Cylinder006
+    4300032: Sala02
+    4300034: Object006
+    4300036: Object007
+    4300038: Object008
+    4300040: Tube001
+    4300042: Cylinder007
+    4300044: Box023
+    4300046: Cylinder008
+    4300048: Cylinder009
+    4300050: Cylinder010
+    4300052: Cylinder011
+    4300054: Cylinder012
+    4300056: Cylinder013
+    4300058: Cylinder014
+    4300060: Cylinder015
+    4300062: Cylinder016
+    4300064: Cylinder017
+    4300066: Cylinder018
+    4300068: Cylinder019
+    4300070: Cylinder020
+    4300072: Box024
+    4300074: Box021
+    4300076: Box020
+    4300078: Chair
+    4300080: Box022
+    4300082: Object009
+    4300084: Object010
+    4300086: Object011
+    4300088: Gate005
+    4300090: Object012
+    4300092: RoomRoof
+    4300094: Tube002
+    4300096: Object013
+    4300098: Baranda
+    4300100: Box026
+    4300102: mesh_cc
+    4300104: Roof_00
+    4300106: Gate003
+    4300108: Line007
+    4300110: Line009
+    6400000: //RootNode
+    6400002: DecoPiece00
+    6400004: Sala00
+    6400006: DecoPiece001
+    6400008: SkyDome
+    6400010: Cylinder001
+    6400012: Cylinder002
+    6400014: GeoSphere001
+    6400016: SkyDome001
+    6400018: SkyDome002
+    6400020: Sala01
+    6400022: Crystal
+    6400024: SkyDome003
+    6400026: Gate004
+    6400028: Line008
+    6400030: Box020
+    6400032: Box021
+    6400034: Box022
+    6400036: Box023
+    6400038: Box024
+    6400040: Chair
+    6400042: Cylinder006
+    6400044: Cylinder007
+    6400046: Cylinder008
+    6400048: Cylinder009
+    6400050: Cylinder010
+    6400052: Cylinder011
+    6400054: Cylinder012
+    6400056: Cylinder013
+    6400058: Cylinder014
+    6400060: Cylinder015
+    6400062: Cylinder016
+    6400064: Cylinder017
+    6400066: Cylinder018
+    6400068: Cylinder019
+    6400070: Cylinder020
+    6400072: Line011
+    6400074: Object006
+    6400076: Object007
+    6400078: Object008
+    6400080: Object009
+    6400082: Object010
+    6400084: Object011
+    6400086: Sala02
+    6400088: Tube001
+    6400090: Gate005
+    6400092: Object012
+    6400094: RoomRoof
+    6400096: Tube002
+    6400098: Baranda
+    6400100: Box026
+    6400102: Object013
+    6400104: mesh_cc
+    6400106: Roof_00
+    6400108: Gate003
+    6400110: Line007
+    6400112: Line009
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackMetal
+    second: {fileID: 2100000, guid: 93b5b1a5279e31e4783e582d3312a6ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ButtonLight
+    second: {fileID: 2100000, guid: 44beb41f19a30524faa9a7c71ca96a10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ColorPaint2
+    second: {fileID: 2100000, guid: 1be4b2053f5c59541a426c88c253c601, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Energy
+    second: {fileID: 2100000, guid: eb574167a0396464d8ff362a06f6f9d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MM_CB_ClearCristal
+    second: {fileID: 2100000, guid: 1c83d376d7d9f884d93f9d4e9b0afe06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MM_CB_GreyRubber00
+    second: {fileID: 2100000, guid: bd5e04d8843748d4a81d2fa02b83a1a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MM_CB_WhiteLight00
+    second: {fileID: 2100000, guid: 4607f28920501b9419c4ad3b6c17b82d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MM_CB_WhitePlastic
+    second: {fileID: 2100000, guid: c0d9a430cedca9646b1a465b05e1ae0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mission Logo
+    second: {fileID: 2100000, guid: 8b45bb044d2074c49bb5f1ca0bbf8ab9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor
+    second: {fileID: 2100000, guid: e064e71115f93bc4a85e93805d7cdf50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor2
+    second: {fileID: 2100000, guid: 2e37c6c18bab5d54bb2573b540bcba16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S01_autoilum
+    second: {fileID: 2100000, guid: c3ec7cbec96ae754086da1af66914da3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S01_blackmetal
+    second: {fileID: 2100000, guid: f07a3afcec0766d49aeb8fd766243c7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S01_blackrubber
+    second: {fileID: 2100000, guid: 15511d80239c6cc4895b31d409d2b875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S01_detailred
+    second: {fileID: 2100000, guid: 5d112ff233dd931418e2765e51bb9fdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S01_metalwalls
+    second: {fileID: 2100000, guid: a5657417f20c4d34694e27352b778e55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S01_windows
+    second: {fileID: 2100000, guid: badf90f30a086a3468c22182c9c0dba1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S01b_autoilum
+    second: {fileID: 2100000, guid: 7d3d4892c57b0174c88de59ccc8bc8b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S01b_blackrubber
+    second: {fileID: 2100000, guid: 8cf557722ba2f0c468cb919560669f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S01b_metalframe
+    second: {fileID: 2100000, guid: 1384a091a54eafe43b973851a7e2535a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S01b_whiteplastic
+    second: {fileID: 2100000, guid: 75e45a70227e77447837652ef6e3ba2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S01b_windows
+    second: {fileID: 2100000, guid: b7ab93208c258814fa3e7895ebe85b14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sala02_autoilum
+    second: {fileID: 2100000, guid: 103bd3ff2fd9f6b45bfcd4a40a13fef3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sala02_blackrubber
+    second: {fileID: 2100000, guid: eae96c8846f1a1d40994ae6109e1ff10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sala02_metalfloor
+    second: {fileID: 2100000, guid: 7b641d37df941d34a819ea776aef3659, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sala02_whiteplastic
+    second: {fileID: 2100000, guid: 1b8a2eb816a4cbf4d976044a6fe347e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof02_blackrubber
+    second: {fileID: 2100000, guid: 459052c0c5fc82f41ae627c69df51362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof02lights
+    second: {fileID: 2100000, guid: 24cea061469bff041b7934a4befee4f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof02metaldetail
+    second: {fileID: 2100000, guid: 18dddbc56adcfd14d959c2c9b8895179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sala00_autoilum
+    second: {fileID: 2100000, guid: 13608c1690c4b234598fd278880b716c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sala00_blackrubber
+    second: {fileID: 2100000, guid: 1179225e97dfe5e40a7a3cd25275c95c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sala00_metalframe
+    second: {fileID: 2100000, guid: 12db6beeed9779b40a631c5b3a8d4759, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sala00_screens
+    second: {fileID: 2100000, guid: 6a57524c56048454eb5681870833d4ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sala00_secondplastic
+    second: {fileID: 2100000, guid: b7b7723fda2953f4b9dd2dac7cb89b4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sala00_tiles
+    second: {fileID: 2100000, guid: 581ea5dd5c2842e4090f85e1fced3b3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sala00_whiteplastic
+    second: {fileID: 2100000, guid: bff7d9c76e777fc428bc14e938ca5d09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sala00_window
+    second: {fileID: 2100000, guid: 307a7c6b47beb4a42966334c6092253b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.04
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.04
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

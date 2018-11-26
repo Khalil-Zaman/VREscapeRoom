@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 75eea14d497e561449b22e3d7f80a239
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cbdhex_door001
+    100002: cbdhex_door002
+    100004: cbdhex_door003
+    100006: cbhex_door001
+    100008: cbhex_door002
+    100010: cchex_door001
+    100012: cchex_door002
+    100014: chhex_door001
+    100016: chhex_door002
+    100018: chhex_door003
+    100020: chhex_door004
+    100022: Conn_zero
+    100024: Connec_T
+    100026: Connect_bend01
+    100028: Connect_Bend_double1
+    100030: Connect_corner1
+    100032: Connect_doub
+    100034: Connect_Hshape
+    100036: Connect_Hshape1
+    100038: Connect_plus
+    100040: Connect_plus01
+    100042: Connect_str_00
+    100044: Connect_T
+    100046: Connect_zer1
+    100048: Connection_bend_right
+    100050: Connection_straight
+    100052: //RootNode
+    100054: cphex_door001
+    100056: cphex_door002
+    100058: cphex_door003
+    100060: cphex_door004
+    100062: cshex_door001
+    100064: cthex_door001
+    100066: cthex_door002
+    100068: cthex_door003
+    100070: czhex_door001
+    100072: czhex_door002
+    100074: GConnect_corner
+    100076: Object014
+    100078: cHhex_door001
+    100080: cHhex_door002
+    100082: cHhex_door003
+    100084: cHhex_door004
+    100086: Conect_bendouble
+    100088: Conect_corner_group
+    100090: Conect_corner_group01
+    100092: Conect_corner_group02
+    100094: Conect_corner_group03
+    100096: Conect_H_group
+    100098: Conect_X_group
+    100100: Connect_T_group
+    100102: Connect_Tshape
+    100104: Connect_Tshape02
+    100106: Connect_Tshape03
+    100108: Connect_Tshape04
+    100110: Connect_Xshape
+    100112: cXhex_door001
+    100114: cXhex_door002
+    100116: cXhex_door003
+    100118: cXhex_door004
+    100120: Door_frame001
+    400000: cbdhex_door001
+    400002: cbdhex_door002
+    400004: cbdhex_door003
+    400006: cbhex_door001
+    400008: cbhex_door002
+    400010: cchex_door001
+    400012: cchex_door002
+    400014: chhex_door001
+    400016: chhex_door002
+    400018: chhex_door003
+    400020: chhex_door004
+    400022: Conn_zero
+    400024: Connec_T
+    400026: Connect_bend01
+    400028: Connect_Bend_double1
+    400030: Connect_corner1
+    400032: Connect_doub
+    400034: Connect_Hshape
+    400036: Connect_Hshape1
+    400038: Connect_plus
+    400040: Connect_plus01
+    400042: Connect_str_00
+    400044: Connect_T
+    400046: Connect_zer1
+    400048: Connection_bend_right
+    400050: Connection_straight
+    400052: //RootNode
+    400054: cphex_door001
+    400056: cphex_door002
+    400058: cphex_door003
+    400060: cphex_door004
+    400062: cshex_door001
+    400064: cthex_door001
+    400066: cthex_door002
+    400068: cthex_door003
+    400070: czhex_door001
+    400072: czhex_door002
+    400074: GConnect_corner
+    400076: Object014
+    400078: cHhex_door001
+    400080: cHhex_door002
+    400082: cHhex_door003
+    400084: cHhex_door004
+    400086: Conect_bendouble
+    400088: Conect_corner_group
+    400090: Conect_corner_group01
+    400092: Conect_corner_group02
+    400094: Conect_corner_group03
+    400096: Conect_H_group
+    400098: Conect_X_group
+    400100: Connect_T_group
+    400102: Connect_Tshape
+    400104: Connect_Tshape02
+    400106: Connect_Tshape03
+    400108: Connect_Tshape04
+    400110: Connect_Xshape
+    400112: cXhex_door001
+    400114: cXhex_door002
+    400116: cXhex_door003
+    400118: cXhex_door004
+    400120: Door_frame001
+    2300000: cbdhex_door001
+    2300002: cbdhex_door002
+    2300004: cbdhex_door003
+    2300006: cbhex_door001
+    2300008: cbhex_door002
+    2300010: cchex_door001
+    2300012: cchex_door002
+    2300014: chhex_door001
+    2300016: chhex_door002
+    2300018: chhex_door003
+    2300020: chhex_door004
+    2300022: Connect_bend01
+    2300024: Connect_corner1
+    2300026: Connect_doub
+    2300028: Connect_Hshape1
+    2300030: Connect_plus01
+    2300032: Connect_str_00
+    2300034: Connect_T
+    2300036: Connect_zer1
+    2300038: cphex_door001
+    2300040: cphex_door002
+    2300042: cphex_door003
+    2300044: cphex_door004
+    2300046: cshex_door001
+    2300048: cthex_door001
+    2300050: cthex_door002
+    2300052: cthex_door003
+    2300054: czhex_door001
+    2300056: czhex_door002
+    2300058: Object014
+    2300060: cHhex_door001
+    2300062: cHhex_door002
+    2300064: cHhex_door003
+    2300066: cHhex_door004
+    2300068: Conect_corner_group01
+    2300070: Conect_corner_group02
+    2300072: Conect_corner_group03
+    2300074: Connect_Hshape
+    2300076: Connect_Tshape
+    2300078: Connect_Tshape02
+    2300080: Connect_Tshape03
+    2300082: Connect_Tshape04
+    2300084: Connect_Xshape
+    2300086: cXhex_door001
+    2300088: cXhex_door002
+    2300090: cXhex_door003
+    2300092: cXhex_door004
+    2300094: Door_frame001
+    3300000: cbdhex_door001
+    3300002: cbdhex_door002
+    3300004: cbdhex_door003
+    3300006: cbhex_door001
+    3300008: cbhex_door002
+    3300010: cchex_door001
+    3300012: cchex_door002
+    3300014: chhex_door001
+    3300016: chhex_door002
+    3300018: chhex_door003
+    3300020: chhex_door004
+    3300022: Connect_bend01
+    3300024: Connect_corner1
+    3300026: Connect_doub
+    3300028: Connect_Hshape1
+    3300030: Connect_plus01
+    3300032: Connect_str_00
+    3300034: Connect_T
+    3300036: Connect_zer1
+    3300038: cphex_door001
+    3300040: cphex_door002
+    3300042: cphex_door003
+    3300044: cphex_door004
+    3300046: cshex_door001
+    3300048: cthex_door001
+    3300050: cthex_door002
+    3300052: cthex_door003
+    3300054: czhex_door001
+    3300056: czhex_door002
+    3300058: Object014
+    3300060: cHhex_door001
+    3300062: cHhex_door002
+    3300064: cHhex_door003
+    3300066: cHhex_door004
+    3300068: Conect_corner_group01
+    3300070: Conect_corner_group02
+    3300072: Conect_corner_group03
+    3300074: Connect_Hshape
+    3300076: Connect_Tshape
+    3300078: Connect_Tshape02
+    3300080: Connect_Tshape03
+    3300082: Connect_Tshape04
+    3300084: Connect_Xshape
+    3300086: cXhex_door001
+    3300088: cXhex_door002
+    3300090: cXhex_door003
+    3300092: cXhex_door004
+    3300094: Door_frame001
+    4300000: Connect_bend01
+    4300002: cbhex_door002
+    4300004: cbhex_door001
+    4300006: Object014
+    4300008: Connect_str_00
+    4300010: cshex_door001
+    4300012: Connect_corner1
+    4300014: cchex_door001
+    4300016: cchex_door002
+    4300018: Connect_zer1
+    4300020: czhex_door001
+    4300022: czhex_door002
+    4300024: Connect_T
+    4300026: cthex_door003
+    4300028: cthex_door001
+    4300030: cthex_door002
+    4300032: Connect_plus01
+    4300034: cphex_door001
+    4300036: cphex_door004
+    4300038: cphex_door003
+    4300040: cphex_door002
+    4300042: Connect_Hshape1
+    4300044: chhex_door001
+    4300046: chhex_door002
+    4300048: chhex_door003
+    4300050: chhex_door004
+    4300052: Connect_doub
+    4300054: cbdhex_door001
+    4300056: cbdhex_door002
+    4300058: cbdhex_door003
+    4300060: Door_frame001
+    4300062: Conect_corner_group01
+    4300064: Conect_corner_group02
+    4300066: Conect_corner_group03
+    4300068: Connect_Tshape
+    4300070: Connect_Tshape02
+    4300072: Connect_Tshape03
+    4300074: Connect_Tshape04
+    4300076: cXhex_door003
+    4300078: cXhex_door002
+    4300080: cXhex_door001
+    4300082: Connect_Xshape
+    4300084: cXhex_door004
+    4300086: cHhex_door004
+    4300088: cHhex_door002
+    4300090: Connect_Hshape
+    4300092: cHhex_door003
+    4300094: cHhex_door001
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CBD_blackrubber
+    second: {fileID: 2100000, guid: 03bb6a8f9d53b24438ba6586ea5db073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CBD_indoorplastic
+    second: {fileID: 2100000, guid: aa98f82120f1e7f40a202fbdce3d185c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CBD_selfilum
+    second: {fileID: 2100000, guid: e399d765e8d378d49b755d66ccf31fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CBD_window
+    second: {fileID: 2100000, guid: 75f62e9ffbff9654b88cd36595270f1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CB_blackrubber
+    second: {fileID: 2100000, guid: 4b6b4092d10bf15478abbd0af7e07f65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CB_frameblack
+    second: {fileID: 2100000, guid: 65d85dc3157880744826d1e6dec4d8f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CB_indoorplastic
+    second: {fileID: 2100000, guid: a691b939385b15c4f842d3507edfd31d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CB_metalframe
+    second: {fileID: 2100000, guid: e80c1a3b11d2abe4597e3db78c528aca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CB_selfilum
+    second: {fileID: 2100000, guid: 4a426067ee2a93440bd15d8da6a1a797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CB_window
+    second: {fileID: 2100000, guid: 856806e9334e2714e87e3d54f6482aa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CC_blackrubber
+    second: {fileID: 2100000, guid: f33ae19ec330d9646adff917ae3c5758, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CC_frameblack
+    second: {fileID: 2100000, guid: 873550a381f8fbe46bf7035db11dee78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CC_indoorplastic
+    second: {fileID: 2100000, guid: d3664e97ba51f894ca90fea490b382d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CC_metalframe
+    second: {fileID: 2100000, guid: 7e7476d60cc3bb04facaf0f20d8d8e3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CC_selfilum
+    second: {fileID: 2100000, guid: 44b5dca08c1874442a9fcae574d9786c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CC_window
+    second: {fileID: 2100000, guid: e30a674e15fdea34b8737023e1a0cb63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CD_blackrubber
+    second: {fileID: 2100000, guid: c86282b350a307c449f873d71e6fdebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CD_frameblack
+    second: {fileID: 2100000, guid: 08a6e51fb4b263e4a823b26384b2be82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CD_indoorplastic
+    second: {fileID: 2100000, guid: 1ca2beefc2adb794a9fabad668036215, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CD_metalframe
+    second: {fileID: 2100000, guid: 59f6d8f3ea4d99d48a8f117dcd651b25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CD_selfilum
+    second: {fileID: 2100000, guid: dca419e2e39ec8145ba9a274f288fb7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CD_window
+    second: {fileID: 2100000, guid: bc3a0509e06e0a8498de630c41c1cdf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CH_blackrubber
+    second: {fileID: 2100000, guid: 76315198241b17641901fe572ba3dde5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CH_frameblack
+    second: {fileID: 2100000, guid: e6b1abb3d4aee6f44978a2e2eff4f3b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CH_indoorplastic
+    second: {fileID: 2100000, guid: 169931b5a6490464fafc9b50b7e2157e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CH_metalframe
+    second: {fileID: 2100000, guid: 7c5e24838843b9d418329db337f26bbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CH_selfilum
+    second: {fileID: 2100000, guid: 1780cef5e8829d54a8a01d0a4a4bfd77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CH_window
+    second: {fileID: 2100000, guid: ea034f3935ff1b24690619ec87e17f5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CT_blackrubber
+    second: {fileID: 2100000, guid: 3e1423b6fb1090d4cb05a36a04e585a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CT_frameblack
+    second: {fileID: 2100000, guid: e3ec05e9a3eabb44b904483461d570fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CT_indoorplastic
+    second: {fileID: 2100000, guid: f27a5af0fc032884285d6f61867eaf8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CT_metalframe
+    second: {fileID: 2100000, guid: 4a1b47f999c247c45be51a6c5d6b088e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CT_selfilum
+    second: {fileID: 2100000, guid: 4fd4adbf642059a40b905a3f8e657afa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CT_window
+    second: {fileID: 2100000, guid: 3c223edb00ac5f04292f9d8b86fde5d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CX_blackrubber
+    second: {fileID: 2100000, guid: bd41c3a416188de47bb536ffde705f62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CX_frameblack
+    second: {fileID: 2100000, guid: 58b35ca6c9857554db7478a229ec509d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CX_indoorplastic
+    second: {fileID: 2100000, guid: d5df375dae06696489d3f2c598863c43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CX_metalframe
+    second: {fileID: 2100000, guid: e258f0e00159d58408024d180201861e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CX_selfilum
+    second: {fileID: 2100000, guid: 8e77b09832308d943bd379364332095b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CX_window
+    second: {fileID: 2100000, guid: d1d98998bf7cd1549aed50aa7c502281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MM_CB_GreyRubber00
+    second: {fileID: 2100000, guid: bd5e04d8843748d4a81d2fa02b83a1a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MM__DoorGreyRubber01
+    second: {fileID: 2100000, guid: e9b4c6986540fc8468bd74115ce5e0c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MM__DoorWhiteLight01
+    second: {fileID: 2100000, guid: 93a1e25f3905e464ba57d6f8e55e241e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MM__DoorWhitePlastic1
+    second: {fileID: 2100000, guid: cacba8b20bf954145b85963224f00fbb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.6
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.04064
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
