@@ -7,9 +7,6 @@ public class NetManager : MonoBehaviour {
     /// <summary>Connect automatically? If false you can set this to true later on or call ConnectUsingSettings in your own scripts.</summary>
     //public bool AutoConnect = true;
 
-    public GameObject throwableCubePrefab;
-
-
     public virtual void Start() {
         PhotonNetwork.ConnectUsingSettings("1 ." + SceneManagerHelper.ActiveSceneBuildIndex);
     }
@@ -46,6 +43,6 @@ public class NetManager : MonoBehaviour {
     public void OnJoinedRoom()
     {
         Debug.Log("OnJoinedRoom() called by PUN. Now this client is in a room. From here on, your game would be running. For reference, all callbacks are listed in enum: PhotonNetworkingMessage");
-        PhotonNetwork.Instantiate(throwableCubePrefab.name, ViveManager.Instance.throwableCube.transform.position, ViveManager.Instance.throwableCube.transform.rotation, 0);
+        PhotonNetwork.Instantiate("ThrowableObj", ViveManager.Instance.throwableCube.transform.position, ViveManager.Instance.throwableCube.transform.rotation, 0);
     }
 }
