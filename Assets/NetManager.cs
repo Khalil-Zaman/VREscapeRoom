@@ -5,10 +5,9 @@ using UnityEngine;
 public class NetManager : MonoBehaviour {
 
     /// <summary>Connect automatically? If false you can set this to true later on or call ConnectUsingSettings in your own scripts.</summary>
-    public bool AutoConnect = true;
+    //public bool AutoConnect = true;
 
-    /// <summary>if we don't want to connect in Start(), we have to "remember" if we called ConnectUsingSettings()</summary>
-    private bool ConnectInUpdate = true;
+    public GameObject throwableCubePrefab;
 
 
     public virtual void Start() {
@@ -47,5 +46,6 @@ public class NetManager : MonoBehaviour {
     public void OnJoinedRoom()
     {
         Debug.Log("OnJoinedRoom() called by PUN. Now this client is in a room. From here on, your game would be running. For reference, all callbacks are listed in enum: PhotonNetworkingMessage");
+        PhotonNetwork.Instantiate(throwableCubePrefab.name, ViveManager.Instance.throwableCube.transform.position, ViveManager.Instance.throwableCube.transform.rotation, 0);
     }
 }
