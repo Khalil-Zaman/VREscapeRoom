@@ -23,16 +23,11 @@ public class hider : MonoBehaviour {
 
 	}
 
-	// Update is called once per frame
-	void Update () {
+    public void CutWire()
+    {
+        Debug.Log("CUT!");
+        hide1show2 = !hide1show2; // toggle hide1show2
+        HideShow();
+    }
 
-		if (Input.GetKeyDown("h")){ // if H pressed...
-      hide1show2 = !hide1show2; // toggle hide1show2
-      HideShow();
-
-
-
-
-	}
-}
 }

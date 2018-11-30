@@ -38,6 +38,8 @@ public class WS_Client : MonoBehaviour {
         ws.Connect();
         Debug.Log("Connected!");
         yield return new WaitForSecondsRealtime(1);
+
+        ws.Send("1234");
     }
 
     public void SendWSMsg(string msg)
