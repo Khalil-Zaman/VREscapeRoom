@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Rocket.unity
+- path: Assets/Scenes/SpaceStation.unity
   isLoaded: 1
   isActive: 1
